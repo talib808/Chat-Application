@@ -1,7 +1,9 @@
 # Chat Application
-```
-This is a real-time chat application built Node.js (Express) with Socket.io on the backend. It allows person-to-person and group chats, supports authentication and authorization, stores messages in MySQL, and notifies users of new messages with notifications and search features.
-```
+
+- This is a real-time chat application built Node.js (Express) with Socket.io on the backend. 
+- It allows person-to-person and group chats, supports authentication and authorization, stores messages in MySQL,
+- and notifies users of new messages with notifications and search features.
+
 ## Features
 
 1. **Person-to-Person Chat**: Users can send real-time messages to other users using Socket.io.
